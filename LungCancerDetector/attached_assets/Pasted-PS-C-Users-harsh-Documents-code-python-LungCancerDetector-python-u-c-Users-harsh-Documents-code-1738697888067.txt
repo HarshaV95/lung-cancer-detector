@@ -1,0 +1,44 @@
+PS C:\Users\harsh\Documents\code\python\LungCancerDetector> python -u "c:\Users\harsh\Documents\code\python\LungCancerDetector\app.py"
+2025-02-05 01:07:53,206 - __main__ - INFO - Starting application setup...
+2025-02-05 01:07:53,206 - __main__ - INFO - Verifying dependencies...
+2025-02-05 01:07:53,207 - __main__ - INFO - PyTorch version: 2.6.0+cpu
+2025-02-05 01:07:53,207 - __main__ - INFO - TorchVision version: 0.21.0+cpu
+2025-02-05 01:07:53,207 - __main__ - INFO - OpenCV version: 4.11.0
+2025-02-05 01:07:53,207 - __main__ - INFO - NumPy version: 2.2.2
+2025-02-05 01:07:53,207 - __main__ - INFO - Configuring Streamlit page...
+2025-02-05 01:07:53.251 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53,251 - __main__ - INFO - Starting Lung Cancer Detection System
+2025-02-05 01:07:53.252 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.280 
+  Warning: to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run c:\Users\harsh\Documents\code\python\LungCancerDetector\app.py [ARGUMENTS]
+2025-02-05 01:07:53.281 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.281 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.281 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.281 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.281 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.282 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.282 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53,282 - __main__ - INFO - Loading model...
+2025-02-05 01:07:53.282 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.283 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.283 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53,284 - model - INFO - Setting up device...
+2025-02-05 01:07:53,284 - model - INFO - Using device: cpu
+2025-02-05 01:07:53,284 - model - INFO - Initializing model...
+2025-02-05 01:07:53,284 - model - INFO - Initializing ResNet50 model...
+2025-02-05 01:07:53,784 - model - INFO - Model architecture modified for medical imaging
+2025-02-05 01:07:53,788 - model - INFO - Model initialized and set to evaluation mode
+2025-02-05 01:07:53.788 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.788 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53,788 - __main__ - INFO - Model loaded successfully
+2025-02-05 01:07:53.789 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.789 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.789 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.789 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.789 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.790 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-02-05 01:07:53.790 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+PS C:\Users\harsh\Documents\code\python\LungCancerDetector> 
